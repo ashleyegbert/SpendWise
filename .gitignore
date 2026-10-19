@@ -1,0 +1,22 @@
+#python virtual environments
+.venv/
+venv/
+.venv312
+
+#python cache files
+__pycache__
+*.py[cod]
+
+#Test and coverage output
+.pytest_cache/
+htmlcov/
+.coverage
+
+#local databases
+*.db
+*.sqlite
+*.sqlite3
+
+#IDE settings
+.idea/
+transactions.json
